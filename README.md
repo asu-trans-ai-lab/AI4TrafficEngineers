@@ -33,10 +33,10 @@ Master the art of analyzing time-series data to predict traffic patterns and mak
 
 ### 4. Video Analysis with Gemini
 
-![Run in Colab](https://example.com/link-to-google-colab-enterprise-logo.png)  
+![Run in Colab](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/video-analysis/video_analysis.ipynb)  
 **Platform**: Google Cloud Colab Enterprise
 
-**Open in Vertex AI Workbench**: [Click Here](https://example.com/link-to-vertex-ai-workbench)
+**Open in Vertex AI Workbench**: 
 
 **Author(s)**: Holt Skinner
 
@@ -45,16 +45,6 @@ Master the art of analyzing time-series data to predict traffic patterns and mak
 - **Install Vertex AI SDK for Python**: Follow the installation guide to set up the necessary tools for video analysis.
 
 > **Note**: Due to the length of the video, this process will take a few minutes to complete.
-
-#### Send to Gemini
-
-Execute the model generation and fetch the analysis results using the following Python code:
-
-```python
-response = model.generate_content(contents, generation_config=generation_config)
-
-# Display results
-display(Markdown(response.text))
 
 **Additional Notes**
 
@@ -66,20 +56,19 @@ For a concise guide on setting up Google Colaboratory for video processing and f
 
 ### 5. Case Studies and Real-World Applications
 
-https://drive.google.com/drive/folders/1FktX9SDjRZ3GKr_td3S2fgUn2bU3QOJO
 
 Objectives:
-- **Apply** learned techniques to real-world scenarios.
+- **Apply** learned techniques to real-world scenarios using open street maps (https://www.openstreetmap.org/relation/3766483)
 - **Evaluate** the effectiveness of AI models in practical traffic applications.
 
 
 
-### Hands-On Tutorial Using Google Colab
+### Hands-On Tutorial Using Google Colab (https://drive.google.com/drive/folders/1FktX9SDjRZ3GKr_td3S2fgUn2bU3QOJO)
 
 - **Google Colab Tutorial**: For a detailed guide on using Google Colab, refer to our tutorial document [here](https://www.tutorialspoint.com/google_colab/what_is_google_colab.htm).
 - **Additional Resources**: [Jupyter Notebook Introduction](https://realpython.com/jupyter-notebook-introduction/) and [Virtual Machine Guide](https://www.vmware.com/topics/glossary/content/virtual-machine.html).
 
-### Get Started
+### Get Started on OSM2gmns
 
 - [Start with Google Colab](https://github.com/asu-trans-ai-lab/OSM2GMNS/blob/master/osm2gmns_quickstart.ipynb): Begin with installing packages, downloading data, and setting up your first project on traffic analysis.
 
