@@ -66,9 +66,13 @@ For a concise guide on setting up Google Colaboratory for video processing and f
 
 ### 5. Case Studies and Real-World Applications
 
+https://drive.google.com/drive/folders/1FktX9SDjRZ3GKr_td3S2fgUn2bU3QOJO
+
 Objectives:
 - **Apply** learned techniques to real-world scenarios.
 - **Evaluate** the effectiveness of AI models in practical traffic applications.
+
+
 
 ### Hands-On Tutorial Using Google Colab
 
