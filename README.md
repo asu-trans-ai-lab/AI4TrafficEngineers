@@ -14,17 +14,17 @@ Before starting, ensure you have the necessary software installed on your machin
 ### 1. Basic Knowledge
 Understand the foundational concepts of machine learning and deep learning, crucial for mastering further AI techniques in traffic engineering.
 
-- **Content**: Dive into key concepts using the Jupyter Notebook. Access the notebook [https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_0_basic_knowledge.ipynb](path-to-notebook).
+- **Content**: Dive into key concepts using the Jupyter Notebook. Access the notebook [https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_0_basic_knowledge.ipynb](https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_0_basic_knowledge.ipynb).
 
 ### 2. Optimization Techniques
 Learn about optimization algorithms that can be applied to traffic flow, signal timing, and resource allocation.
 
-- **Content**: Explore practical exercises and solutions in the dedicated Jupyter Notebook. Access the notebook [https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_1_optimization.ipynb](path-to-notebook).
+- **Content**: Explore practical exercises and solutions in the dedicated Jupyter Notebook. Access the notebook [https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_1_optimization.ipynb](https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_1_optimization.ipynb).
 
 ### 3. Time Series Analysis
 Master the art of analyzing time-series data to predict traffic patterns and make data-driven decisions for traffic management.
 
-- **Content**: Apply learned techniques on real-world traffic data with our comprehensive guide. Access the notebook [https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_2_time_series.ipynb](path-to-notebook).
+- **Content**: Apply learned techniques on real-world traffic data with our comprehensive guide. Access the notebook [https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_2_time_series.ipynb](https://github.com/asu-trans-ai-lab/AI4TrafficEngineers/blob/main/Traffic_AI_2_time_series.ipynb).
 
 ## Case Studies and Real-World Applications
 
